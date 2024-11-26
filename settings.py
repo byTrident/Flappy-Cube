@@ -1,0 +1,3 @@
+WINDOW_SIZE = (800, 600)
+WINDOW_CAPTION = "Flappy Cube"
+FPS = 60
